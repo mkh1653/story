@@ -1,0 +1,83 @@
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_UltraLight.woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Light.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb.woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Medium.woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Bold.woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+}
+/* // number fonts */
+
+/* @font-face {
+  font-family: iransans;
+  src: url("../public/font/num/IRANSansWeb\(FaNum\)_UltraLight.woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Light.woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/num/IRANSansWeb\(FaNum\).woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/num/IRANSansWeb\(FaNum\)_Medium.woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Bold.woff2");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: iransans;
+  src: url("../public/font/IRANSansWeb_Black.woff2");
+  font-weight: 900;
+  font-style: normal;
+} */
